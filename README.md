@@ -1,6 +1,6 @@
-# apiscripts
+#apiscripts
 
-# The files in this repository are just a bunch of simple scripts to communicate with various data portal APIs.
+The files in this repository are just a bunch of simple scripts to communicate with various data portal APIs.
 
 
  I) getdata-from-esgf.py --- searches and dowmloads ISIMIP model output from the ESGF data portal

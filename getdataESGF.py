@@ -38,8 +38,8 @@ from pyesgf.logon import LogonManager
 import os, subprocess
 
 #--- input user credential --
-username='ocean'
-password='8unTg!S3bh@jhwC'
+username='modifyMe'
+password='modifyMe'
 #---------------------------- 
 
 #--- input search criteria --
